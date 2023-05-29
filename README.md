@@ -20,3 +20,14 @@ Download the json file for client secret file and rename as credentials.json .
 3. Install the requirements using "pip install -r requirements.txt"
 4. Copy the credentials.json in the static folder
 5. Run the app using python "manage.py runserver"
+
+**Screenshots**<br><br>
+
+![Screenshot (257)](https://github.com/shivamsks219/gcal/assets/68140446/e34bc2ec-6810-465a-9b3e-eda696a5d728)
+<br>**Index Page**<br><br>
+![Screenshot (258)](https://github.com/shivamsks219/gcal/assets/68140446/b8cadd71-ddf6-4a31-9d86-bd507643cec7)
+<br>**Outh Login **<br><br>
+![Screenshot (259)](https://github.com/shivamsks219/gcal/assets/68140446/9627f6f0-afd7-42c5-8ba9-27e2c2a21ea6)
+<br>**Taking permission for calendar details**<br><br>
+![Screenshot (260)](https://github.com/shivamsks219/gcal/assets/68140446/cd025e12-0490-4549-be9f-7afa387be037)
+<br>**Returning the Events from google Calendar**
